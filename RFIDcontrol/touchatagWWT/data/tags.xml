@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<targets>
+  <obj RFID="04a68b51962280" RA="5.575" dec="22.016667" rot="0.0" zoom="1.0" distance="6,500 ly" size ="5.5 ly">Crab Nebula</obj>
+  <obj RFID="04443651962280" RA="5.588138" dec="-5.3911111" rot="0.0" zoom="2.7">Orion Nebula</obj>
+  <obj RFID="04643a51962280" RA="18.893077" dec="33.029175" rot="0.0" zoom="0.12">Ring Nebula</obj>
+  <obj RFID="047e72d9a12580" RA="13.49797" dec="47.19527" rot="1.605" zoom="0.6">Whirlpool Galaxy(M51)</obj>
+  <obj RFID="046c8451962280" RA="14.0535" dec="54.34916" rot="0.0" zoom="1.13">Pinwheel Galaxy(M101)</obj>
+  <obj RFID="0470ec51962280" RA="3.78459" dec="24.130267" rot="0.0" zoom="4.4">Pleadies(M45)</obj>
+  <obj RFID="04bfe151962280" RA="1.40967" dec="3.79256" rot="0.0" zoom="0.14">NGC 520</obj>
+</targets>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MIDIMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Akai APC40" DeviceImageUrl="">
+  <ControlMaps>
+    <ControlMap Name="53" Channel="0" ID="53" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="SolarSystemMode" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="54" Channel="0" ID="54" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="SkyMode" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="55" Channel="0" ID="55" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="EarthMode" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="56" Channel="0" ID="56" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="PlanetMode" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="57" Channel="0" ID="57" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="PanoramaMode" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="53" Channel="1" ID="53" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoSun" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="54" Channel="1" ID="54" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoMercury" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="55" Channel="1" ID="55" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoVenus" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="56" Channel="1" ID="56" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoEarth" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="57" Channel="1" ID="57" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoMars" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="52" Channel="1" ID="52" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="EarthCutawayView" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="53" Channel="2" ID="53" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="Jupiter" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="55" Channel="2" ID="55" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoUranus" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="56" Channel="2" ID="56" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoNeptune" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="57" Channel="2" ID="57" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoPluto" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="52" Channel="0" ID="52" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="GalacticMode" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="53" Channel="7" ID="53" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="Constellations" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="54" Channel="7" ID="54" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowConstellationFigures" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="55" Channel="7" ID="55" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowConstellationPictures" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="56" Channel="7" ID="56" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowConstellationBoundries" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="14" Channel="0" ID="14" ControlType="Slider" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="Navigation" BindingType="SyncValue" PropertyName="ImageCrossfade" Min="0" Max="100" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="15" Channel="0" ID="15" ControlType="Slider" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="SpaceTimeController" BindingType="SyncValue" PropertyName="TimeRate" Min="-1000000" Max="1000000" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="92" Channel="0" ID="92" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="PauseTime" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="49" Channel="0" ID="49" ControlType="Slider" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="Navigation" BindingType="SyncValue" PropertyName="Ra" Min="0" Max="24" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="51" Channel="0" ID="51" ControlType="Slider" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="Zoom" Min="2.1457672119140625E-05" Max="360" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="53" Channel="6" ID="53" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowEcliptic" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="54" Channel="6" ID="54" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowPrecessionChart" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="16" Channel="1" ID="16" ControlType="Slider" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="Setting" BindingType="SyncValue" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="17" Channel="1" ID="17" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="ResetCamera" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="55" Channel="6" ID="55" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowGrid" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="56" Channel="6" ID="56" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowGalacticGrid" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="57" Channel="6" ID="57" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowEclipticGrid" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="82" Channel="0" ID="82" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowSkyOverlays" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="53" Channel="5" ID="53" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="LocalHorizonMode" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="54" Channel="5" ID="54" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowAltAzGrid" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="16" Channel="8" ID="16" ControlType="Slider" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="Faster" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="17" Channel="8" ID="17" ControlType="Slider" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="ValueChange" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="Slower" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="98" Channel="0" ID="98" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="SetRealtimeNow" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="53" Channel="4" ID="53" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="SolarSystemOverview" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="54" Channel="4" ID="54" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoMilkyWay" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="55" Channel="4" ID="55" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Navigation" BindingType="Action" PropertyName="GotoSDSSGalaxies" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="52" Channel="2" ID="52" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="SolarSystemOrbits" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="81" Channel="0" ID="81" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Toggle" PropertyName="0.0 0.0" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="52" Channel="3" ID="52" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowClouds" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="52" Channel="7" ID="52" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Layer" BindingType="Toggle" PropertyName="Opacity" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="50" Channel="1" ID="50" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC5194" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="50" Channel="2" ID="50" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC5128" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="50" Channel="3" ID="50" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC3034" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="50" Channel="4" ID="50" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC4676" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="50" Channel="5" ID="50" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC4594" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="50" Channel="6" ID="50" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="ngc5907" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="50" Channel="7" ID="50" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC4911" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="55" Channel="5" ID="55" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" PropertyName="ShowUTCTime" Min="0" Max="1" Integer="false" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="49" Channel="1" ID="49" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC3372" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="49" Channel="2" ID="49" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC6720" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="49" Channel="3" ID="49" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC 6543" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="48" Channel="0" ID="48" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC 6791" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="48" Channel="1" ID="48" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC 3766" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="48" Channel="2" ID="48" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC 752" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="49" Channel="4" ID="49" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="NGC3372" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="56" Channel="5" ID="56" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Setting" BindingType="Toggle" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="54" Channel="2" ID="54" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="Goto" BindingType="Action" PropertyName="Saturn" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="91" Channel="0" ID="91" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="Slower" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+    <ControlMap Name="93" Channel="0" ID="93" ControlType="KeyPress" ButtonType="Button" AutoRepeat="false" Mapped="false" X="0" Y="0" Width="0.1" Height="0.1">
+      <BindingA HandlerType="KeyPress" Target="" TargetType="SpaceTimeController" BindingType="Action" PropertyName="Faster" Min="0" Max="1" Integer="true" />
+      <BindingB HandlerType="None" Target="" TargetType="Setting" BindingType="Action" Min="0" Max="1" Integer="true" />
+    </ControlMap>
+  </ControlMaps>
+</MIDIMap>
